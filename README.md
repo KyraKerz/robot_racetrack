@@ -1,5 +1,5 @@
 # The robot_racetrack package
 
-- Author: your name
+- Author: Kyra Kerz
 
 This ROS package provides Rviz visualization markers for a virtual racetrack.
